@@ -73,13 +73,7 @@ img{
 /* Header Section */
 
 .header{
-    margin: 1rem auto;
     padding: 1rem 2rem;
-    /*position: sticky;
-    top: 0;
-    background: white;
-    z-index: 1000;
-    height: 120px;*/
 }
 .header .logo{
     width: 130px;
